@@ -2,9 +2,11 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"print_progress": "00_dataset.ipynb",
+         "extract_frames": "00_dataset.ipynb",
+         "video_to_frames": "00_dataset.ipynb"}
 
-modules = []
+modules = ["dataset.py"]
 
 doc_url = "https://spiyer99.github.io/video_remaster/"
 
