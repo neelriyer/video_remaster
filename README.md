@@ -2,11 +2,6 @@
 > Remove <a href='https://en.wikipedia.org/wiki/Cue_mark'>Cue Marks</a> from Videos
 
 
-```
-from IPython.display import Image
-Image(url= "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Universal_logo%2C_with_cue_mark.png/235px-Universal_logo%2C_with_cue_mark.png", width=500, height=500)
-```
-
 
 
 
