@@ -1,5 +1,5 @@
 # Video Remaster
-> Remove [Cue Marks] from Videos
+> Remove <a href='https://en.wikipedia.org/wiki/Cue_mark'>Cue Marks</a> from Videos
 
 
 This file will become your README and also the index of your documentation.
