@@ -2,9 +2,11 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"print_progress": "00_dataset.ipynb",
+index = {"download_video": "00_dataset.ipynb",
+         "print_progress": "00_dataset.ipynb",
          "extract_frames": "00_dataset.ipynb",
-         "video_to_frames": "00_dataset.ipynb"}
+         "video_to_frames": "00_dataset.ipynb",
+         "video_url_to_frames": "00_dataset.ipynb"}
 
 modules = ["dataset.py"]
 
